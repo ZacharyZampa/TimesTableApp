@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimesTableApp</string>
+    <string name="instruct">What base number</string>
+    <string name="submit">Submit</string>
+</resources>
